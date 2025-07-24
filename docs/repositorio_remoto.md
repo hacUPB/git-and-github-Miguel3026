@@ -12,3 +12,5 @@ Para crear un repositorio remoto y sincronizarlo con tu repositorio local, sigue
 
 
 4. **Envía tus cambios locales al repositorio remoto**: "git push -u origin main"
+
+   ![repositrio remoto y conectarlo](captura20202.png)

@@ -25,3 +25,6 @@ En esta unidad aprendimos a utilizar la consola para navegar por el sistema de a
 - `cls`: Limpia la pantalla de la consola (Windows).
 
 - `clear`: Limpia la pantalla (Linux/Mac).
+
+![uso de la consola](captura24077.png)
+

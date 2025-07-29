@@ -1,7 +1,72 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
+
+**Descripción del repositorio:**
+
+Este repositorio contiene el desarrollo de la Unidad No. 1 del curso de programación, centrada en el aprendizaje y uso de Git y GitHub para la gestión de proyectos. Aquí encontrarás la estructura básica de un proyecto de programación, incluyendo carpetas para el código fuente, documentación e imágenes, así como ejemplos prácticos y documentación detallada sobre los conceptos fundamentales de control de versiones.
+
+El objetivo principal de este repositorio es demostrar el proceso completo de creación, organización y documentación de un proyecto utilizando herramientas modernas de control de versiones. Se incluyen instrucciones paso a paso para clonar el repositorio, crear y gestionar repositorios locales y remotos, y utilizar la consola para manipular archivos y directorios. Además, se documentan los comandos más importantes de Git y de la terminal, facilitando el aprendizaje y la consulta rápida.
+
+La documentación está organizada en archivos Markdown dentro de la carpeta `docs`, donde se explican los conceptos aprendidos, los procedimientos realizados y se muestran ejemplos prácticos. El repositorio también contiene un archivo `.gitignore` configurado para ignorar archivos y carpetas comunes que no deben ser versionados, y un script de ejemplo en Python para ilustrar la inclusión de código fuente funcional.
+
+
+**Pasos necesarios para clonar y ejecutar el proyecto:**
+
+1. **Clonar el repositorio desde GitHub:**
+   Abre la terminal y ejecuta el siguiente comando, reemplazando la URL por la de tu repositorio: "git clone"
+
+2. **Acceder a la carpeta del proyecto:**
+Ingresa con el comando "cd nombre-repo"
+
+3. **Revisar la estructura del proyecto:**
+Dentro del repositorio encontrarás las carpetas `src`, `docs` e `images`, así como los archivos de documentación y el código fuente.
+
+4. **Ejecutar el script de ejemplo (opcional):**
+Si deseas ejecutar el script de Python incluido, navega a la carpeta `src` y ejecuta:
+"cd src python script.py".
+
+**Tabla de contenidos:**
+- [Uso de la consola](docs/uso_consola.md)
+- [Como crear repositorio local](docs/repositorio_local.md)
+- [Como crear repositorio remoto](docs/repositorio_remoto.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Miguel Angel Mejia Loaiza 
+Id.: 000257893
 ---
 # Evaluación
 
